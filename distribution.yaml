@@ -1,5 +1,5 @@
 name: clawgenius-creative
-version: 0.1.0
+version: 0.1.1
 description: Creative studio agent for image, video, audio, and design assets
 hermes_requires: '>=0.12.0'
 author: ClawGenius
